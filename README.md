@@ -1,3 +1,8 @@
+Changes from Forked Library
+=============
+
+1. The regex in the `parseDeliveryReceipt()` method has been updated to support 4 character error codes. This makes the library compatible with services like AQL.
+
 PHP-based SMPP client lib
 =============
 

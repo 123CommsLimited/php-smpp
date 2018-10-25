@@ -1,8 +1,8 @@
 {
-  "name": "php-smpp/php-smpp",
+  "name": "123CommsLimited/php-smpp",
   "description": "PHP-based SMPP client lib",
   "keywords": ["smpp", "sms", "texting", "gsm"],
-  "homepage": "http://github.com/onlinecity/php-smpp",
+  "homepage": "http://github.com/123CommsLimited/php-smpp",
   "type": "library",
   "license": "LGPL",
   "authors": [
@@ -10,6 +10,11 @@
       "name": "Hans Duedal",
       "email": "hd@oc.dk",
       "homepage": "http://oc.dk"
+    },
+    {
+      "name": "ParentMail",
+      "email": "info@parentmail.co.uk",
+      "homepage": "https://parentmail.co.uk"
     }
   ],
   "require": {
